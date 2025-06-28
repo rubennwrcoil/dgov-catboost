@@ -1,0 +1,1 @@
+The CBS Social Survey is restricted and must be requested separately from Israel’s Central Bureau of Statistics

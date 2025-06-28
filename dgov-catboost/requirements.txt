@@ -1,0 +1,14 @@
+# Core ML & data handling
+catboost==1.2.8
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==1.26.4
+
+# Model interpretation
+shap==0.48.0
+
+# Plotting (for bootstrap bar chart )
+matplotlib==3.9.2
+
+# Progress bar utility (used in bootstrap loop)
+tqdm==4.66.5
