@@ -1,6 +1,6 @@
 # CatBoost models for “Digital Government Use among the Arab Population in Israel”
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15762356.svg)](https://doi.org/10.5281/zenodo.15762356)
 
 This repository contains the training script, pre-trained models, and output
 files that support the machine-learning results in our revised
