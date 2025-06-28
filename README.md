@@ -48,8 +48,7 @@ cannot be redistributed here. See data/README_data.txt for instructions.
 
 
 ## How to cite this repository
-Harari, R. (2025). dgov-catboost [Code repository].
-Zenodo. https://doi.org/10.5281/zenodo.xxxxxxx
+Harari, R. (2025). The CatBoost training script, outputs, and environment file for the article "Digital Government Use among the Arab Population in Israel" (V2025-06-28). Zenodo. https://doi.org/10.5281/zenodo.15762356
 
 ## License 
 This project is released under the MIT License (see LICENSE). You are
