@@ -10,20 +10,35 @@ submission to "Online Information Review".
 
 ## Folder structure
 dgov-catboost/
+
 ├ script/
-│	├ catboost_full.py # trains on the entire dataset
-│	├ catboost_test.py # 70/30 split with class-weights, bootstraps
+
+  │	├ catboost_full.py # trains on the entire dataset
+
+  │	├ catboost_test.py # 70/30 split with class-weights, bootstraps
+  
 ├ data/
+
 ├ outputs_full/ # artefacts for full-sample run
-│	├ metrics_full.json
-│	├ shap_mean_abs_full.csv
+
+  │	├ metrics_full.json
+
+  │	├ shap_mean_abs_full.csv
+
 ├ outputs_test/ # artefacts for hold-out run
-│	├ metrics_test.json
-│	├ shap_mean_abs_test.csv
-│	├ bootstrap_importance_test.csv
+
+  │	├ metrics_test.json
+
+  │	├ shap_mean_abs_test.csv
+
+  │	├ bootstrap_importance_test.csv
+
 ├ requirements.txt 
+
 ├LICENSE 
+
 ├ README.md # you are here
+
 
 
 
